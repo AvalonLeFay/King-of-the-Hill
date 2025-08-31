@@ -6,7 +6,10 @@
 		"movement": 5,
 		"strength": 50,
 		"cost": 500,
-		"uniques": ["Cannot be purchased", "Requires at least [10] population", "Cost increases by [50] when built", "[+100]% Strength decreasing with distance from the capital", "[1] additional attacks per turn", "Unit will heal every turn, even if it performs an action", "[+20]% Strength bonus for [Military] units within [2] tiles", "All adjacent units heal [+20] HP when healing", "[+20] HP when healing"],
+		"uniques": ["Cannot be purchased", "Requires at least [10] population", "Cost increases by [50] when built",
+			"[+100]% Strength decreasing with distance from the capital", "[1] additional attacks per turn",
+			"Unit will heal every turn, even if it performs an action", "[+20]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+20] HP when healing", "[+20] HP when healing"],
 		"attackSound": "phasers"
 	}
 ]
