@@ -29,7 +29,7 @@
 
 		"outerColor": [196,106,6],
 		"innerColor": [25,207,100],
-		"uniques": "[+1 Gold, +1 Science, +1 Production, +1 Culture, +1 Faith, +1 Food, +1 Happiness] per [1] population [in all cities]",
+		"uniques": ["[+1 Gold, +1 Science, +1 Production, +1 Culture, +1 Faith, +1 Food, +1 Happiness] per [1] population [in all cities]", "[+20]% XP gained from combat"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
